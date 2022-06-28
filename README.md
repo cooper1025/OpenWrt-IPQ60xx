@@ -1,5 +1,6 @@
-# OpenWrt will work if you can upgrade the ROM more than 512MB and the Flash more than 256MB!
 # OpenWrt for Redmi AX5 and Xiaomi AX1800
+
+## OpenWrt will work if you can upgrade the ROM more than 512MB and the Flash more than 256MB!
 
 - [Document](https://github.com/Lvellios/OpenWrt-AX5-AX1800/blob/main/Doc.md)
 
