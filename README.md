@@ -2,7 +2,8 @@
 
 ## OpenWrt will work if you can upgrade the ROM more than 512MB and the Flash more than 256MB!
 
-## [Doc](https://github.com/Lvellios/OpenWrt-AX5-AX1800/blob/main/Doc.md)
+## [Install](https://github.com/Lvellios/OpenWrt-AX5-AX1800/blob/main/Install.md)
+## [Upgrade](https://github.com/Lvellios/OpenWrt-AX5-AX1800/blob/main/Upgrade.md)
 
 ### Redmi AX5
  - RAM: 256MB, **M15T2G16128A** AZL1-P99W015S-DEB001, DDR3, FBGA96
