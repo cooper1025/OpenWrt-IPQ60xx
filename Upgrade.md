@@ -1,6 +1,9 @@
-# Upgrade the RAM
+# Tools you need
+
+
+## Upgrade the RAM
 
 
 
-# Upgrade the Flash
+## Upgrade the Flash
 
