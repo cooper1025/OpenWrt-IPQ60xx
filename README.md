@@ -23,3 +23,13 @@
 - Front End Module: QPF4550 ×2
 - 2.4 Wireless Chip: QCN5022
 - Front End Module: QPF4200 ×2
+
+# GL.iNet GL-AX1800
+- RAM: 512MB, DDR3L
+- Flash: 128MB
+- SoC: IPQ6000 & IPQ6018 (Quad Cores A53@1.0-1.2 Ghz, 1 NPU@1.5 GHz)
+- Switch Chip: QCA8075
+- 5G Wireless Chip: QCN5052
+- Front End Module: QPF4550 ×2
+- 2.4 Wireless Chip: QCN5022
+- Front End Module: QPF4200 ×2
