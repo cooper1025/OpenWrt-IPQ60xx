@@ -1,4 +1,4 @@
-# OpenWrt for Redmi AX5 and Xiaomi AX1800
+# OpenWrt for IPQ60xx
 
 ## OpenWrt will be work if you can upgrade the **RAM** more than 1GB (NECESSARY).
 ## BTW if you have already upgraded the rom then you can also upgrade the **Flash** memory more than 512MB after
