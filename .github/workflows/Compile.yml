@@ -12,7 +12,7 @@ env:
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
   TZ: Canada/Atlantic
-  FILE_NAME: OpenWrt Redmi AX5 & Xiaomi AX1800
+  FILE_NAME: IPQ60xx OpenWrt
 
 jobs:
   build:
@@ -118,7 +118,7 @@ jobs:
         commit: main
         token: ${{ secrets.RELEASES_TOKEN }}
         body: |
-          For GL.iNet GL-AX1800
+          The firmware for IPQ60xx
           ${{ env.useVersionInfo }}
         artifacts: ${{ env.FIRMWARE }}/*
 
