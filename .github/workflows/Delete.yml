@@ -1,13 +1,12 @@
 name: Delete Workflow
 on:
   workflow_dispatch:
-    inputs:
 
 jobs:
   del_runs:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
-    - name: Delete Workflow Runs
+    - name: Delete Old Workflows
       uses: Mattraks/delete-workflow-runs@v2
       with:
         token: ${{ secrets.RELEASES_TOKEN }}
