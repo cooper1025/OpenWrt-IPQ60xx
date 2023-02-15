@@ -1,7 +1,4 @@
 # OpenWrt for IPQ60xx
-
-## [Install](https://github.com/Lvellios/OpenWrt-AX5-AX1800/blob/main/Install.md)
-## [Upgrade](https://github.com/Lvellios/OpenWrt-AX5-AX1800/blob/main/Upgrade.md)
 ***
 ### Redmi AX5 & RA67
 * Processor: IPQ6000 - Quad Cores A53@1.0-1.2 Ghz, 1 NPU@1.5 GHz)
