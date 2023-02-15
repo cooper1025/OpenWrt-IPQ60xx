@@ -2,7 +2,7 @@
 ***
 ### Redmi AX5 & RA67
 * Processor: IPQ6000 - Quad Cores A53@1.0-1.2 Ghz, 1 NPU@1.5 GHz)
-* RAM: 256MB, (ESMT) **M15T2G16128A**, DDR3, FBGA96 **You must upgrade RAM ≥512 MB**
+* RAM: 256MB, (ESMT) **M15T2G16128A**, DDR3, FBGA96 [You must upgrade RAM ≥512 MB](#heading)
 * Flash: 128MB, (GigaDevice) **GD9FS1G8F2AMGI**, SLC, TSOP48
 * Switch Chip: QCA8075 {5 Ports, GbE (10/100/1000)}
 * FEM: QPF4550 ×2
@@ -13,7 +13,7 @@
 ***
 ### Xiaomi AX1800
 * Processor: IPQ6000 (Quad Cores A53@1.0-1.2 Ghz, 1 NPU@1.5 GHz)
-* RAM: 256MB, (ESMT) **M15T2G16128A**, DDR3, FBGA96 **You must upgrade RAM ≥512 MB**
+* RAM: 256MB, (ESMT) **M15T2G16128A**, DDR3, FBGA96 [You must upgrade RAM ≥512 MB](#heading)
 * Flash: 128MB, (ESMT) **F59D1G81MB**, TSOP48
 * Others are the same as AX5
 ***
