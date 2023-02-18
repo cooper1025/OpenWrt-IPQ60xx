@@ -1,11 +1,13 @@
 # OpenWrt for IPQ60xx
 ***
 ## Upgrade RAM
-## You can filter to find out this
-* 1G × 16, 128M × 16Bit × 8Banks, 2048MB
-* 512M × 16, 64M × 16Bit × 8Banks, 1024MB
-* 256M × 16, 32M × 16Bit × 8Banks, 512MB
-* 128M × 16, 16M × 16Bit × 8Banks, 256MB
+### The rank density is the product of rank depth and rank width.
+| Memory Organisation | Rank Depth | Rank Width | Number Of Ranks | Rank Density |
+| ------| ------ | ------ | ------ | ------ |
+| 1G × 16 | 128 Mbit | 16 Bits | 8 Banks | 2048 Mb |
+| 512M × 16 | 64 Mbit | 16 Bits | 8 Banks | 1024 Mb |
+| 256M × 16 | 32 Mbit | 16 Bits | 8 Banks | 512 Mb |
+| 128M × 16 | 16 Mbit | 16 Bits | 8 Banks | 256 Mb |
 
 ## Original RAM
 * M15T2G16128A-DEB, DDR3L, FBGA 96, 7.5mm×13.5mm (128M×16, 16M×16x8)
@@ -14,7 +16,7 @@
 * MT41K1G16DGA-125:A (D9STR), DDR3L, FBGA 96, (1G×16, 128M×16×8)
 
 ## 1GB
-* MT41K512M16HA-125:A (D9STQ), DDR3L, FBGA 96, 9±0.1mm× 13.2±0.1mm (512M×16, 64M×16×8)
+* MT41K512M16HA-125:A (D9STQ), DDR3L, FBGA 96, 9mm×14mm (512M×16, 64M×16×8)
 * MT41K512M16VRP-107 IT:P (D9ZWN), DDR3L, FBGA 96, 8mm×14 mm (512M×16, 64M×16×8)
 ***
 ### Redmi AX5 & RA67
