@@ -2,10 +2,10 @@
 ***
 ## Upgrade RAM
 ## You can filter to find out this
-> 1G × 16, 128M × 16Bit × 8Banks, 2048MB
-> 512M × 16, 64M × 16Bit × 8Banks, 1024MB
-> 256M × 16, 32M × 16Bit × 8Banks, 512MB
-> 128M × 16, 16M × 16Bit × 8Banks, 256MB
+* 1G × 16, 128M × 16Bit × 8Banks, 2048MB
+* 512M × 16, 64M × 16Bit × 8Banks, 1024MB
+* 256M × 16, 32M × 16Bit × 8Banks, 512MB
+* 128M × 16, 16M × 16Bit × 8Banks, 256MB
 
 ## Original RAM
 * M15T2G16128A-DEB, DDR3L, FBGA 96, 7.5mm×13.5mm (128M×16, 16M×16x8)
