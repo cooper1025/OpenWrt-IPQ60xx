@@ -2,7 +2,7 @@
 ***
 ## Upgrade RAM
 ### The rank density is the product of rank depth and rank width.
-| Memory Organisation | Rank Depth | Rank Width | Number Of Ranks | Rank Density |
+| Memory Organisation | Rank Depth | Rank Width | Number Of Banks | Rank Density |
 | ------| ------ | ------ | ------ | ------ |
 | 1G × 16 | 128 Mbit | 16 Bits | 8 Banks | 2048 Mb |
 | 512M × 16 | 64 Mbit | 16 Bits | 8 Banks | 1024 Mb |
