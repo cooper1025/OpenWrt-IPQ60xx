@@ -11,7 +11,7 @@ env:
   DIY_SCRIPT: diy-part.sh
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
-  TZ: Asia/Shanghai
+  TZ: Canada/Atlantic
   FILE_NAME: IPQ60xx OpenWrt
 
 jobs:
@@ -54,10 +54,7 @@ jobs:
         [ -e $CONFIG_FILE ] && mv $CONFIG_FILE openwrt/.config
         chmod +x $DIY_SCRIPT
         cd openwrt
-        # $GITHUB_WORKSPACE/$DIY_SCRIPT
-        git apply --stat ../*.patch
-        git apply --check ../*.patch
-        git am --signoff <  ../*.patch
+        $GITHUB_WORKSPACE/$DIY_SCRIPT
 
     - name: Download DL Package
       id: package
